@@ -1,3 +1,11 @@
+/***********************************************************************
+UFA - ESPE
+AUTORES: Matías Padrón,Sebastian Torres
+FECHA DE CREACIÓN: 30/10/2022
+FECHA DE MODIFICACIÓN: 30/10/2022
+Tarea2-Lectura y validación Datos-Interfaces
+GITHUB: Padron-Torres-Primer-Parcial-Estructuras
+ ***********************************************************************/
 #include "LecturaDatos.h"
 
 class ValidacionDatos:public LecturaDatos{
