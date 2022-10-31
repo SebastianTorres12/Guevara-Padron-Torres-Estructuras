@@ -1,4 +1,11 @@
-
+/***********************************************************************
+UFA - ESPE
+AUTORES: Matías Padrón,Sebastian Torres
+FECHA DE CREACIÓN: 30/10/2022
+FECHA DE MODIFICACIÓN: 30/10/2022
+Tarea3-PLantillaCASTING
+GITHUB: Padron-Torres-Primer-Parcial-Estructuras
+ ***********************************************************************/
 
 #include"CastingDatos.cpp"
 using namespace std;
