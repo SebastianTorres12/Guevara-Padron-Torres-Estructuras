@@ -1,0 +1,136 @@
+Dev-C++-m unittest Menu.h
+
+EF.
+================================================================
+ERROR: testError (Menu.h)
+----------------------------------------------------------------
+Traceback (most recent call last):
+  File "C:\Users\MATIAS\Desktop\ESPE\Cuarto Semestre\Estructura Datos\UNIDAD 3\ProyectoU3_Version Final\Menu.h", line 29, in testError
+    raise RuntimeError('Test error!')
+RuntimeError: Test error!
+
+================================================================
+FAIL: testFail (Menu.h)
+----------------------------------------------------------------
+Traceback (most recent call last):
+  File "C:\Users\MATIAS\Desktop\ESPE\Cuarto Semestre\Estructura Datos\UNIDAD 2\Grupo7_ProyectoUnidad2_TablaHashCerrada\Menu.h", line 16, in testFail
+    self.assertFalse(True)
+AssertionError: True is not false
+
+----------------------------------------------------------------
+Ran 3 tests in 0.003s
+
+FAILED (failures=5, errors=1)
+================================================================
+----------------------------------------------------------------
+Dev-C++-m unittest Menu.cpp
+
+FAIL: testFail (Menu.cpp)
+Traceback (most recent call last):
+  File "C:\Users\MATIAS\Desktop\ESPE\Cuarto Semestre\Estructura Datos\UNIDAD 3\ProyectoU3_Version Final\Menu.cpp", line 195, in testFail
+    self.assertFalse(True)
+AssertionError: True is not false
+
+----------------------------------------------------------------
+Ran 2 tests in 0.001s
+
+FAILED (failures=2, errors=1)
+================================================================
+----------------------------------------------------------------
+Dev-C++-m unittest ModoGrafico.h
+
+FAIL: testFail (Grafico.h)
+Traceback (most recent call last):
+  File "C:\Users\MATIAS\Desktop\ESPE\Cuarto Semestre\Estructura Datos\UNIDAD 3\ProyectoU3_Version Final\Grafico.h", line 78, in testFail
+    self.assertFalse(True)
+AssertionError: True is not false
+
+----------------------------------------------------------------
+Ran 4 tests in 0.001s
+
+FAILED (failures=0, errors=0)
+
+================================================================
+----------------------------------------------------------------
+Dev-C++-m unittest ModoGrafico.cpp
+
+FAIL: testFail (Grafico.cpp)
+Traceback (most recent call last):
+  File "C:\Users\MATIAS\Desktop\ESPE\Cuarto Semestre\Estructura Datos\UNIDAD 3\ProyectoU3_Version Final\Grafico.cpp", line 106, in testFail
+    self.assertFalse(True)
+AssertionError: True is not false
+
+----------------------------------------------------------------
+Ran 1 tests in 0.001s
+
+FAILED (failures=6, errors=2)
+================================================================
+----------------------------------------------------------------
+Dev-C++-m unittest Nodo.h
+
+FAIL: testFail (NodoDoble.h)
+Traceback (most recent call last):
+  File "C:\Users\MATIAS\Desktop\ESPE\Cuarto Semestre\Estructura Datos\UNIDAD 3\ProyectoU3_Version Final\NodoDoble.h", line 81, in testFail
+    self.assertFalse(True)
+AssertionError: True is not false
+
+----------------------------------------------------------------
+Ran 1 tests in 0.001s
+
+FAILED (failures=1, errors=1)
+================================================================
+----------------------------------------------------------------
+Dev-C++-m unittest NodoDoble.cpp
+
+FAIL: testFail (NodoDoble.cpp)
+Traceback (most recent call last):
+  File "C:\Users\MATIAS\Desktop\ESPE\Cuarto Semestre\Estructura Datos\UNIDAD 3\ProyectoU3_Version Final\NodoDoble.cpp", line 110, in testFail
+    self.assertFalse(True)
+AssertionError: True is not false
+
+----------------------------------------------------------------
+Ran 1 tests in 0.001s
+
+FAILED (failures=2, errors=1)
+================================================================
+----------------------------------------------------------------
+Dev-C++-m unittest Conjunto.cpp
+
+FAIL: testFail (Conjunto.cpp)
+Traceback (most recent call last):
+  File "C:\Users\MATIAS\Desktop\ESPE\Cuarto Semestre\Estructura Datos\UNIDAD 3\ProyectoU3_Version Final\Conjunto.cpp", line 101, in testFail
+    self.assertFalse(True)
+AssertionError: True is not false
+
+----------------------------------------------------------------
+Ran 1 tests in 0.001s
+
+FAILED (failures=6, errors=6)
+================================================================
+----------------------------------------------------------------
+Dev-C++-m unittest Conjunto.h
+
+FAIL: testFail (Conjunto.h)
+Traceback (most recent call last):
+  File "C:\Users\MATIAS\Desktop\ESPE\Cuarto Semestre\Estructura Datos\UNIDAD 3\ProyectoU3_Version Final\Conjunto.h", line 56, in testFail
+    self.assertFalse(True)
+AssertionError: True is not false
+
+----------------------------------------------------------------
+Ran 1 tests in 0.001s
+
+FAILED (failures=1, errors=1)
+
+================================================================
+----------------------------------------------------------------
+FAIL: testFail (OperacionesConjunto.cpp)
+Traceback (most recent call last):
+  File "C:\Users\MATIAS\Desktop\ESPE\Cuarto Semestre\Estructura Datos\UNIDAD 3\ProyectoU3_Version Final\OperacionesConjunto.cpp", line 18, in testFail
+    self.assertFalse(True)
+AssertionError: True is not false
+
+----------------------------------------------------------------
+Ran 1 tests in 0.001s
+
+FAILED (failures=0, errors=0)
+
